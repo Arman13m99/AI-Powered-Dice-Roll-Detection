@@ -1,0 +1,4 @@
+train: D:\YOLOV8\train
+val: D:\YOLOV8\test
+nc: 6
+names: ["1", "2", "3", "4", "5", "6"]
