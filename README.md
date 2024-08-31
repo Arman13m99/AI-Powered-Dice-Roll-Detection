@@ -39,7 +39,10 @@ To run this project, you will need the following dependencies:
 ## Example
 Here’s an example of how the system works:
 
-- The system detects an audio cue (e.g., a Dice Roll).
+- The system detects an audio cue (e.g., a bell sound).
 - A screenshot is automatically taken.
 - The system identifies dice with values 3 and 5 on the screen.
 - It calculates the probability of the next dice roll (e.g., the probability of rolling a 4 next is 16.67%).
+
+## Note
+Due to the large size of the trained models, they could not be uploaded to this repository. If you need the latest trained models for both audio and video detection, please contact me at **arman13m99@gmail.com** to request access.
